@@ -1,0 +1,36 @@
+melon_id,common_name,price,image_url,color,seedless
+cren,Crenshaw,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/alibaba.webp,green,True
+alib,Ali Baba Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/ancient-watermelon.webp,green,True
+anci,Ancient Watermelon,3,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/arkansas-black.jpeg,green,False
+arkb,Arkansas Black Watermelon,4,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/chris-cross.jpeg,black,True
+chrc,Chris Cross Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/congo-watermelon.webp,green,False
+cong,Congo Watermelon,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/crenshaw.png,green,True
+cris,Crimson Sweet Watermelon,1.75,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/crimson-sweet.webp,green,False
+desk,Desert King Watermelon,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/desert-king.jpeg,green,True
+dixq,Dixie Queen Watermelon,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/dixie-queen.gif,green,False
+fair,Fairfax Watermelon,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/fairfax-watermelon.jpeg,green,False
+golh,Golden Honey Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/golden-honey.jpeg,green,True
+golm,Golden Midget Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/golden-midget.jpeg,gold,False
+hopy,Hopi Yellow Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/hopi-yellow.webp,gold,True
+irig,Irish Grey Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/irish-grey.jpg,green,False
+jubb,Jubilee Bush Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/jubilee-bush.jpeg,green,True
+jubi,Jubilee Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/jubilee.webp,green,False
+ledm,Ledmon Watermelon,3,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/ledmon.jpeg,green,True
+mala,Malali Watermelon,2,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/malali.png,green,False
+meli,Melitopolski Watermelon,3,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/melitopolski.jpeg,green,True
+monm,Montenegro Man Melon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/montenegro.jpeg,green,False
+moos,Moon and Stars Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/moon-and-stars.webp,green,False
+moon,Moonbeam Watermelon,2.25,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/moonbeam.jpeg,green,True
+navw,Navajo Winter Watermelon,3,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/navajo-winter.jpeg,green,True
+oran,Orangeglo Watermelon,2.75,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/orangeglo.jpeg,white,False
+royg,Royal Golden Watermelon,2.25,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/royal-golden.jpeg,gold,True
+scab,Scaly Bark Watermelon,4,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/scaly-bark.jpeg,green,True
+stom,Stone Mountain Watermelon,3,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/stone-mountain.jpeg,green,False
+sugb,Sugar Baby Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/sugar-baby.jpeg,green,True
+takg,Takii Gem Watermelon,2.75,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/takii-gem-watermelon.webp,green,False
+tend,Tendergold Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/tender-gold.webp,green,True
+texg,Texas Golden Watermelon,2.75,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/texas_golden.jpeg,green,False
+thrd,Thai Rom Dao Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/thai-rom-dao.webp,green,True
+tomw,Tom Watson Watermelon,2.25,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/tom-watson.png,green,False
+whiw,White Wonder Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/white-wonder.png,green,True
+wils,Wilson's Sweet Watermelon,2.5,https://fellowship.hackbrightacademy.com/materials/exercises/images/melons/wilson-sweet.jpeg,green,False
